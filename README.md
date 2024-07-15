@@ -15,11 +15,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 [https://chat-mern-app.vercel.app/](https://chat-mern-app.vercel.app/)
 
-<<<<<<< HEAD
 ![](https://github.com/thomson0313/mern-chat-app/blob/main/frontend/screenshots/group%20%2B%20notif.PNG)
-=======
-![](https://github.com/thomson0313/mern-chat-app/blob/master/frontend/screenshots/group%20%2B%20notif.PNG)
->>>>>>> 38ea1ce36ab3ad831a02c9c46d1530f0a12af7ff
 ## Run Locally
 
 Clone the project
@@ -55,7 +51,6 @@ Start the Client
 # Features
 
 ### Authenticaton
-<<<<<<< HEAD
 ![](https://github.com/thomson0313/mern-chat-app/blob/main/frontend/screenshots/login.PNG)
 ![](https://github.com/thomson0313/mern-chat-app/blob/main/frontend/screenshots/signup.PNG)
 ### Real Time Chatting with Typing indicators
@@ -75,26 +70,3 @@ Start the Client
 ## Made By
 
 - [@thomson0313](https://github.com/thomson0313)
-
-  
-=======
-![](https://github.com/thomson0313/mern-chat-app/blob/master/frontend/screenshots/login.PNG)
-![](https://github.com/thomson0313/mern-chat-app/blob/master/frontend/screenshots/signup.PNG)
-### Real Time Chatting with Typing indicators
-![](https://github.com/thomson0313/mern-chat-app/blob/master/frontend/screenshots/real-time.PNG)
-### One to One chat
-![](https://github.com/thomson0313/mern-chat-app/blob/master/frontend/screenshots/mainscreen.PNG)
-### Search Users
-![](https://github.com/thomson0313/mern-chat-app/blob/master/frontend/screenshots/search.PNG)
-### Create Group Chats
-![](https://github.com/thomson0313/mern-chat-app/blob/master/frontend/screenshots/new%20grp.PNG)
-### Notifications 
-![](https://github.com/thomson0313/mern-chat-app/blob/master/frontend/screenshots/group%20%2B%20notif.PNG)
-### Add or Remove users from group
-![](https://github.com/thomson0313/mern-chat-app/blob/master/frontend/screenshots/add%20rem.PNG)
-### View Other user Profile
-![](https://github.com/thomson0313/mern-chat-app/blob/master/frontend/screenshots/profile.PNG)
-## Made By
-
-- [@thomson0313](https://github.com/thomson0313)
->>>>>>> 38ea1ce36ab3ad831a02c9c46d1530f0a12af7ff
